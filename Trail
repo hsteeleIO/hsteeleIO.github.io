@@ -1,0 +1,28 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="1265.21">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 14.0px 'Courier New'; min-height: 16.0px}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 64.0px Arial Black; color: #4C4135; background-color: #FAEBD7; text-align: center;}
+    body {
+      background-color: #754719;
+    }
+    IMG.displayed {
+      display: block;
+      margin-left: auto;
+      margin-right: auto 
+    }
+  </style>
+</head>
+<body>
+  <p class="p1"><br></p>
+  <p class="p2"> Surprise Lake </p>
+  <p class="p1"><br></p>
+  <img class="displayed" src="IMG_0404.JPG" alt="Sleeping Panda" align="middle" style="width:500px; height:502px">
+</body>
+</html>
